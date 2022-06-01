@@ -8,3 +8,6 @@ This application makes use of an AR target along with other physical objects to 
 The picture above shows 1 image marker, the stones marker, and 3 physical objects with the 3rd blocked by the puzzle pieces. The pieces are randomly grouped together to match the number of markers selected, they are then attached to the markers. Below is an illustration of how the app process is conducted.
 
 ![alt text](https://github.com/lexcyman/3DARPuzzle/blob/master/system_architecture.png?raw=true)
+
+## User's Manual
+![alt text](https://github.com/lexcyman/3DARPuzzle/blob/master/UsersManual.pdf)
