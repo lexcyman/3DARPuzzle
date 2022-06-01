@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="pringles1" version="3.0" targetId="870b9b1ad34841e6ab40e8cd06b13236" sideLength="0.091000" topDiameter="0.069000" bottomDiameter="0.069000" sideImage="pringles1.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

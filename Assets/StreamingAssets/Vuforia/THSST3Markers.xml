@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="pringles1" sideLength="0.091000"/>
+        <ImageTarget name="stones_marker" size="0.247000 0.172953"/>
+        <ImageTarget name="koko_krunch.Back" size="0.157000 0.220963"/>
+        <ImageTarget name="koko_krunch.Bottom" size="0.157000 0.051012"/>
+        <ImageTarget name="koko_krunch.Left" size="0.051000 0.220912"/>
+        <ImageTarget name="koko_krunch.Right" size="0.051000 0.220912"/>
+        <ImageTarget name="koko_krunch.Top" size="0.157000 0.051012"/>
+        <ImageTarget name="koko_krunch.Front" size="0.157000 0.220963"/>
+        <ImageTarget name="safeguard.Back" size="0.185000 0.104071"/>
+        <ImageTarget name="safeguard.Bottom" size="0.185000 0.037999"/>
+        <ImageTarget name="safeguard.Left" size="0.038000 0.103840"/>
+        <ImageTarget name="safeguard.Right" size="0.038000 0.103840"/>
+        <ImageTarget name="safeguard.Top" size="0.185000 0.037999"/>
+        <ImageTarget name="safeguard.Front" size="0.185000 0.104071"/>
+        <ImageTarget name="froot_loops.Back" size="0.083000 0.102967"/>
+        <ImageTarget name="froot_loops.Bottom" size="0.083000 0.039004"/>
+        <ImageTarget name="froot_loops.Left" size="0.039000 0.102957"/>
+        <ImageTarget name="froot_loops.Right" size="0.039000 0.102957"/>
+        <ImageTarget name="froot_loops.Top" size="0.083000 0.039004"/>
+        <ImageTarget name="froot_loops.Front" size="0.083000 0.102967"/>
+        <MultiTarget name="koko_krunch">
+            <Part name="koko_krunch.Left" translation="-0.07850000262260437 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="koko_krunch.Right" translation="0.07850000262260437 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="koko_krunch.Front" translation="0 0 0.025499999523162842" rotation="AD: 1 0 0 0"/>
+            <Part name="koko_krunch.Back" translation="0 0 -0.025499999523162842" rotation="AD: 0 1 0 180"/>
+            <Part name="koko_krunch.Top" translation="0 0.11050000041723251 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="koko_krunch.Bottom" translation="0 -0.11050000041723251 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="safeguard">
+            <Part name="safeguard.Left" translation="-0.0925000011920929 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="safeguard.Right" translation="0.0925000011920929 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="safeguard.Front" translation="0 0 0.01899999938905239" rotation="AD: 1 0 0 0"/>
+            <Part name="safeguard.Back" translation="0 0 -0.01899999938905239" rotation="AD: 0 1 0 180"/>
+            <Part name="safeguard.Top" translation="0 0.052000001072883606 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="safeguard.Bottom" translation="0 -0.052000001072883606 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="froot_loops">
+            <Part name="froot_loops.Left" translation="-0.04149999842047691 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="froot_loops.Right" translation="0.04149999842047691 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="froot_loops.Front" translation="0 0 0.019500000402331352" rotation="AD: 1 0 0 0"/>
+            <Part name="froot_loops.Back" translation="0 0 -0.019500000402331352" rotation="AD: 0 1 0 180"/>
+            <Part name="froot_loops.Top" translation="0 0.051500000059604645 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="froot_loops.Bottom" translation="0 -0.051500000059604645 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

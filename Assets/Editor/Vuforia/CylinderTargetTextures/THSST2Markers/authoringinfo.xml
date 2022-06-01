@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="pringles_sour_cream" version="3.0" targetId="811771ab425d4db0a380f1ceafa77b62" sideLength="0.930000" topDiameter="0.680000" bottomDiameter="0.680000" sideImage="pringles_sour_cream.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
