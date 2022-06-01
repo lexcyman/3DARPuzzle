@@ -9,3 +9,5 @@ The picture above shows 1 image marker, the stones marker, and 3 physical object
 
 ![alt text](https://github.com/lexcyman/3DARPuzzle/blob/master/system_architecture.png?raw=true)
 
+## User's Manual
+![alt text](https://github.com/lexcyman/3DARPuzzle/blob/master/UsersManual.pdf)
